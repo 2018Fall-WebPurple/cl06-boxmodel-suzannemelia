@@ -1,0 +1,37 @@
+/*
+* Suzanne Melia
+* November 6, 2018 
+* "BoxModel" 
+*/ 
+
+* {  
+    margin: 0px;
+    padding: 0px;
+}
+/*The Universal selector */
+
+body { border:2px dotted green;
+       margin: 20px
+}
+
+main{ border:3px solid blue;
+      margin: 25px 25px;
+}
+
+h1 { border:thin dashed red;
+     padding:25px 15px; 
+     margin:20px 20px; 
+    
+}
+
+p{ border:thin dashed purple;
+   padding:10px 5px; 
+   margin:20px 20px;
+}
+
+border-width: 1px;
+border-style: dashed; 
+border-color: #808080; 
+
+
+/* Body attributes here */
